@@ -10,8 +10,6 @@ CRUD stands for create, read, update, and destroy
 
 Video Game  Inventory System is a simple list React app where you can add, edit, delete, or show which video games are purchased. 
 
-![Image of VideoGameInventorySystem](https://github.com/svbcoder/VideoGameInventorySystem/blob/main/Video%20Game%20Inventory%20System.png)
-
 ### How to run
 
 `cd` into the folder in which you downloaded this repo and type `npm start` in the terminal. The project should run on your default browser.
