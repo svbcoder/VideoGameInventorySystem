@@ -2,6 +2,10 @@
 
 A basic CRUD app to demonstrate data adding, deleting and updating features using React JS. Current version does not have backend database so any updates disappear once app is closed. It is built after referring to [Medium article](https://medium.com/@zfortier42/how-to-create-a-basic-crud-app-in-react-bootstrap-ac666a46a5b8). It uses React JS and Bootstrap framework. Feel free to fork it from my github repository. If you have any questions, you can add them as comments in github. 
 
+Screenshots:
+
+![screen.gif](./VideoGameInventorySystem.gif)
+
 How to setup app: 
 
 https://user-images.githubusercontent.com/90440150/136485497-6895a603-52e6-4d25-ace9-bcd2b4a84671.mp4
